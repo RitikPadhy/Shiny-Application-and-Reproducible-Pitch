@@ -11,7 +11,4 @@ Click the Below Link for the Application.
 
 https://bkarmay.shinyapps.io/PricePredictorForDiamonds/
 
-Click the Below Link for the Rpubs presentation.
-
-http://rpubs.com/bkarmay/338599
 
